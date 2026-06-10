@@ -1,0 +1,6 @@
+{
+  "name": "Emergency NPC",
+  "description": "An interactive, visual improvised NPC generator for Dungeon Masters to quickly create NPCs with custom or randomized traits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
